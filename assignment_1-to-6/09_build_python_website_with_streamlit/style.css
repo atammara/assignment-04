@@ -1,0 +1,49 @@
+/* Main content padding */
+.st-emotion-cache-1y4p8pa {
+    padding: 2rem 4rem;
+}
+
+/* Button styling */
+.stButton>button {
+    border: 2px solid #4F46E5;
+    color: white;
+    background-color: #4F46E5;
+    border-radius: 8px;
+    padding: 10px 24px;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+.stButton>button:hover {
+    background-color: white;
+    color: #4F46E5;
+    border: 2px solid #4F46E5;
+}
+
+/* Primary button */
+.st-emotion-cache-1b9x4bz {
+    background-color: #4F46E5;
+}
+
+/* Image styling */
+.stImage>img {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* Sidebar styling */
+.st-emotion-cache-6qob1r {
+    background-color: #1E293B;
+    color: white;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    color: #1E293B;
+}
+
+/* Divider */
+hr {
+    margin: 2rem 0;
+    border: 1px solid #E2E8F0;
+}
